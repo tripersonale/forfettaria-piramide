@@ -26,23 +26,20 @@ all'eccedenza**, mai retroattivamente al reddito già tassato.
 | Oltre €100.000, anno 3 | 60% | regole normali | |
 | Oltre €100.000, anno 4 e oltre | 70% | regole normali | Cap ragionevole |
 
-**Logica sopra €100k**: le aliquote restano "forfettarie" (niente Libri
-IVA, niente costi analitici, niente doppia contabilità), ma il reddito è
-preso **al lordo**, non forfettizzato. Le spese vive sono già state
-"assorbite" dal coefficiente ATECO entro i €100k. Sopra soglia la base
-è piena: **nessuno può fare giochi o escamotage**.
+**Logica sopra €100k**: le aliquote restano semplici (niente Libri IVA,
+niente costi analitici, niente doppia contabilità), ma il reddito è preso
+al lordo, non forfettizzato. Le spese vive sono già riconosciute dal
+coefficiente ATECO entro i €100k. Sopra soglia la base è piena: nessun
+escamotage possibile.
 
-**Il principio**: il forfettario è fatto per **vivere molto bene, creare
-risparmio e patrimonio** se riesci a capparlo. Ma **non puoi
-arricchirti** come forfettario. Se vuoi crescere oltre, hai due scelte:
-**fai struttura** (SRL, impresa) o **fai squadra** (distribuisci lavoro
-ad altri). Altrimenti paghi di più. È scelta tua — ma il sistema non ti
-permette di restare piatto sopra soglia e accumulare indefinitamente.
+Il forfettario consente di vivere bene, creare risparmio e patrimonio.
+Non consente di accumulare indefinitamente: oltre una certa dimensione,
+il sistema incentiva la distribuzione del lavoro o la strutturazione
+impresa.
 
-**INPS sopra €100k**: non c'è un'aliquota fissa. Si applicano le regole
-normali della gestione di appartenenza (Gestione Separata, Cassa
-professionale, Artigiani/Commercianti). Il 24% indicato in tabella è
-solo un riferimento indicativo per la Gestione Separata.
+**INPS sopra €100k**: si applicano le regole normali della gestione di
+appartenenza (Gestione Separata, Cassa professionale, Artigiani/
+Commercianti). Nessuna aliquota fissa aggiuntiva.
 
 ### Semplicità amministrativa: il vero vantaggio
 
@@ -136,11 +133,9 @@ rifiuta la commessa". La scelta è:
    nessuno: il 64%+ senza scaricare costi è un segnale, non una
    sistemazione.
 
-**Il principio**: non ti puoi arricchire come forfettario. Puoi vivere
-molto bene, creare risparmio e patrimonio se riesci a capparlo. Ma
-niente più. Se vuoi crescere oltre, fai struttura o fai squadra. Il
-sistema rende la permanenza sopra soglia **volontariamente
-sconveniente**, non la vieta.
+**Il principio**: il sistema non espelle nessuno. Rende la permanenza
+sopra soglia progressivamente sconveniente, incentivando la
+distribuzione del lavoro o la strutturazione impresa.
 
 ## 3. Limite 50% ex datore (anti-falsa partita IVA)
 
