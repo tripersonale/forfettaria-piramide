@@ -44,6 +44,27 @@ normali della gestione di appartenenza (Gestione Separata, Cassa
 professionale, Artigiani/Commercianti). Il 24% indicato in tabella è
 solo un riferimento indicativo per la Gestione Separata.
 
+### Semplicità amministrativa: il vero vantaggio
+
+Anche sopra €100k, il forfettario **non entra nel regime ordinario**.
+Niente IVA da addebitare, niente registri IVA, niente liquidazioni
+periodiche, niente costi analitici da dimostrare, niente doppia
+contabilità.
+
+**Per il commercialista**: solo fatture in ingresso e calcolo degli
+scaglioni. Facile, fattibile mese per mese.
+
+**Per il forfettario**: non chiede fattura, basta scontrino. Tanto non
+c'è IVA scaricabile. Il mondo ci guadagna in efficienza.
+
+**Per lo Stato**: meno contenzioso, meno errori, meno evasione da
+complessità. Un sistema che si capisce è un sistema che si rispetta.
+
+Questo è il punto che rende il modello **praticabile**: anche a 70%
+marginale, il costo amministrativo resta vicino a zero. Nell'ordinario
+lo stesso contribuente pagherebbe commercialista, IVA, registri,
+acconti, saldi — un costo fisso di €3-5k/anno solo di burocrazia.
+
 **Esempio**: fatturato annuo €120.000 (consulente ordinario, 1° anno sopra soglia):
 - primi €18.000 → 5%
 - successivi €67.000 → 15%
