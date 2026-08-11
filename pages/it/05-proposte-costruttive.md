@@ -16,22 +16,33 @@ rifugge la crescita, rifiuta commesse, o si finge dipendente.
 **Proposta**: scaglioni marginali progressivi, applicati **solo
 all'eccedenza**, mai retroattivamente al reddito già tassato.
 
-| Fascia di fatturato | Imposta sostitutiva | INPS | Totale | Note |
-|---|---|---|---|---|
-| €0 – €18.000 | 5% | Gestione Separata/Cassa | — | **Sempre 5%**: tariffa di sopravvivenza, indipendente dall'anzianità |
-| €18.001 – €85.000 | 15% | come sopra | — | Forfettario ordinario (coefficiente ATECO applicato) |
-| €85.001 – €100.000 | 25% (startup) / 30% (ordinario) | come sopra | — | Fascia di crescita tollerata |
-| Oltre €100.000, **anno 1** | **40% sull'eccedenza lorda** | 24% sull'eccedenza | **64%** | Niente coefficiente ATECO: base piena |
-| Oltre €100.000, anno 2 | 50% | 24% | **74%** | +10% per anno consecutivo |
-| Oltre €100.000, anno 3 | 60% | 24% | **84%** | |
-| Oltre €100.000, anno 4 e oltre | 70% | 24% | **94%** | Cap ragionevole |
+| Fascia di fatturato | Imposta sostitutiva | INPS | Note |
+|---|---|---|---|
+| €0 – €18.000 | 5% | Gestione/Cassa (regole normali) | **Sempre 5%**: tariffa di sopravvivenza, indipendente dall'anzianità |
+| €18.001 – €85.000 | 15% | come sopra | Forfettario ordinario (coefficiente ATECO applicato) |
+| €85.001 – €100.000 | 25% (startup) / 30% (ordinario) | come sopra | Fascia di crescita tollerata |
+| Oltre €100.000, **anno 1** | **40% sull'eccedenza lorda** | regole normali | Niente coefficiente ATECO: base piena |
+| Oltre €100.000, anno 2 | 50% | regole normali | +10% per anno consecutivo |
+| Oltre €100.000, anno 3 | 60% | regole normali | |
+| Oltre €100.000, anno 4 e oltre | 70% | regole normali | Cap ragionevole |
 
 **Logica sopra €100k**: le aliquote restano "forfettarie" (niente Libri
 IVA, niente costi analitici, niente doppia contabilità), ma il reddito è
 preso **al lordo**, non forfettizzato. Le spese vive sono già state
-"assorbite" dal coefficiente ATECO entro i €100k. Sopra soglia paghi
-tanto, ma non vieni punito: è scelta tua accettare la commessa,
-distribuirla, o pagare.
+"assorbite" dal coefficiente ATECO entro i €100k. Sopra soglia la base
+è piena: **nessuno può fare giochi o escamotage**.
+
+**Il principio**: il forfettario è fatto per **vivere molto bene, creare
+risparmio e patrimonio** se riesci a capparlo. Ma **non puoi
+arricchirti** come forfettario. Se vuoi crescere oltre, hai due scelte:
+**fai struttura** (SRL, impresa) o **fai squadra** (distribuisci lavoro
+ad altri). Altrimenti paghi di più. È scelta tua — ma il sistema non ti
+permette di restare piatto sopra soglia e accumulare indefinitamente.
+
+**INPS sopra €100k**: non c'è un'aliquota fissa. Si applicano le regole
+normali della gestione di appartenenza (Gestione Separata, Cassa
+professionale, Artigiani/Commercianti). Il 24% indicato in tabella è
+solo un riferimento indicativo per la Gestione Separata.
 
 **Esempio**: fatturato annuo €120.000 (consulente ordinario, 1° anno sopra soglia):
 - primi €18.000 → 5%
@@ -47,70 +58,68 @@ distribuirla, o pagare.
 - Chi è sotto €18k è protetto sempre al 5% — non si pagano contributi
   sproporzionati su un'attività che è sopravvivenza, non impresa.
 
-### Escalation automatica per anni consecutivi sopra €100k
+### Escalation simmetrica: sali di uno, scendi di uno
 
-L'aliquota sull'eccedenza **non è una sistemazione permanente**. Scala
-di **+10% per ogni anno consecutivo sopra €100k**, a partire dal 40%
-dell'anno 1. Cap finale 70% (anno 4+), che con INPS 24% arriva al 94%
-complessivo.
+L'aliquota sull'eccedenza scala di **+10% per ogni anno consecutivo
+sopra €100k**, a partire dal 40%. Cap a 70%. Ma il contatore è
+**simmetrico**: scende di uno per ogni anno sotto soglia.
 
-**Counter permanente**: il contatore degli anni consecutivi sopra
-soglia **non si azzera** se il contribuente ridiscende sotto €100k in
-un anno successivo. Resta memoria permanente. Niente gaming, niente
-"reset" strategico.
+| Livello | Condizione | Imposta eccedenza |
+|---|---|---|
+| 1 | 1° anno sopra €100k | 40% |
+| 2 | 2° anno consecutivo sopra | 50% |
+| 3 | 3° anno consecutivo sopra | 60% |
+| 4 (cap) | 4° anno consecutivo sopra | 70% |
 
-| Anno consecutivo sopra €100k | Imposta eccedenza | + INPS 24% | Totale |
-|---|---|---|---|
-| 1° anno | 40% | 24% | **64%** |
-| 2° anno | 50% | 24% | **74%** |
-| 3° anno | 60% | 24% | **84%** |
-| 4° anno e oltre | 70% | 24% | **94%** |
+**Discesa**: ogni anno sotto €100k fa scendere il livello di uno.
+- Sei a livello 3 (60%) e ridiscendi sotto €100k → l'anno dopo sei a livello 2 (50%).
+- Due anni sotto → livello 1 (40%).
+- Non c'è azzeramento istantaneo, ma nemmeno punizione permanente.
 
 **Logica**:
-- Anno 1: 64% sull'eccedenza — è l'anno eccezionale, ok.
-- Anno 2: 74% — comincia a essere serio.
-- Anno 3: 84% — quasi insostenibile.
-- Anno 4: 94% — sopra conviene davvero strutturarsi (ordinario con
-  deduzioni reali, o SRL).
-- **Nessuno viene espulso per legge**. Ma restare sopra soglia per scelta
-  diventa volontariamente sconveniente entro 2-3 anni.
-- L'incentivo a **distribuire lavoro**, **entrare in contractor SRL
-  genuina**, o **passare in ordinario** diventa naturale per scelta
-  razionale, non per obbligo.
-- Il counter permanente elimina i giochetti: chi resta sopra soglia sa
-  che paga sempre di più, anno dopo anno, finché non cambia scelta.
+- Chi ha un anno eccezionale paga il 40% e basta.
+- Chi resta sopra per scelta paga progressivamente di più.
+- Chi ridiscende viene premiato con la riduzione.
+- **Nessun gaming**: non puoi fare "un anno sopra, uno sotto, uno
+  sopra" per restare sempre al 40%. Il livello scende di uno, non si
+  azzera.
+- Il sistema è **giusto e prevedibile**: sai sempre dove sei e dove
+  andrai.
 
-**Esempio**: professionista a €140k/anno per 3 anni consecutivi:
-- Anno 1: paga 40% sull'eccedenza (€40k × 40% = €16k) + INPS (€40k × 24% = €9,6k)
-- Anno 2: paga 50% sull'eccedenza (€40k × 50% = €20k) + INPS (€40k × 24% = €9,6k)
-- Anno 3: paga 60% sull'eccedenza (€40k × 60% = €24k) + INPS (€40k × 24% = €9,6k)
-- Al 4° anno il contribuente è naturalmente spinto a passare in ordinario
-  (aliquote IRPEF ~40% su base reale con deduzioni) o in SRL.
-
-**Perché a 70% si ferma l'escalation**: oltre quella soglia marginale,
-il contribuente riceverebbe meno del netto reale e sarebbe
-tecnicamente confiscatorio. Cap automatico a 70% imposta + 24% INPS =
-94% sull'eccedenza, che è già al limite del sostenibile per scelta.
+**Esempio**: professionista a €140k per 3 anni, poi €90k per 2 anni, poi €130k:
+- Anno 1 (€140k): livello 1, paga 40% su €40k eccedenza
+- Anno 2 (€140k): livello 2, paga 50% su €40k
+- Anno 3 (€140k): livello 3, paga 60% su €40k
+- Anno 4 (€90k): sotto soglia, scende a livello 2
+- Anno 5 (€90k): sotto soglia, scende a livello 1
+- Anno 6 (€130k): sopra soglia, livello 2, paga 50% su €30k eccedenza
 
 ## 2. Tre vie sopra €100.000
 
-Quando il forfettario supera la soglia, ha tre scelte reali — non
-un'espulsione automatica:
+Quando il forfettario supera la soglia, la scelta non è "accetta o
+rifiuta la commessa". La scelta è:
 
-1. **Esecuzione personale**: paga il 50% sull'eccedenza e resta nel
-   regime. Anno eccezionale, lavora sereno, contribuisce di più.
-2. **Distribuzione reale**: passa parte della commessa ad altri
-   professionisti (anche forfettari), che fatturano ciascuno la propria
-   parte. Nessun salto di regime, nessuna concentrazione di reddito.
-3. **Contractor SRL genuina**: passa la commessa a una SRL esistente (non
-   una collettiva di forfettari) che fa da raccordo: assume il rischio,
-   organizza i work package, distribuisce il lavoro tra più professionisti
-   autonomi. La SRL **deve** essere genuina (art. 1655-1656 c.c., D.Lgs.
-   276/2003, D.Lgs. 81/2015): non aggrega solo fatture.
+1. **Fai squadra**: distribuisci la commessa ad altri professionisti
+   (anche forfettari), che fatturano ciascuno la propria parte. Nessun
+   salto di regime, nessuna concentrazione di reddito. Il lavoro
+   circola, il tessuto cresce.
+2. **Fai struttura**: passi la commessa a una SRL esistente (non una
+   collettiva di forfettari) che fa da raccordo: assume il rischio,
+   organizza i work package, distribuisce il lavoro tra più
+   professionisti autonomi. La SRL **deve** essere genuina (art.
+   1655-1656 c.c., D.Lgs. 276/2003, D.Lgs. 81/2015): non aggrega solo
+   fatture.
+3. **Paghi di più**: resti forfettario, esegui personalmente, e paghi
+   l'aliquota marginale alta sull'eccedenza. Per un anno eccezionale
+   può essere la scelta razionale. Strutturalmente non conviene a
+   nessuno: il 64%+ senza scaricare costi è un segnale, non una
+   sistemazione.
 
-La curva fiscale produce da sola la scelta razionale: nessuno viene
-espulso per legge, ma **concentrare tutto su di sé diventa
-volontariamente sconveniente**.
+**Il principio**: non ti puoi arricchire come forfettario. Puoi vivere
+molto bene, creare risparmio e patrimonio se riesci a capparlo. Ma
+niente più. Se vuoi crescere oltre, fai struttura o fai squadra. Il
+sistema rende la permanenza sopra soglia **volontariamente
+sconveniente**, non la vieta.
 
 ## 3. Limite 50% ex datore (anti-falsa partita IVA)
 
