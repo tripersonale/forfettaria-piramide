@@ -30,9 +30,11 @@ English version: [indice.en.md](indice.en.md).
   metodologico che porta a un bersaglio sbagliato.
 - **L'Italia è sotto la media UE** per soglia di esenzione IVA (€85.000
   vs €100.000 in Francia e Germania, €700.000 in Austria).
-- **Le tre facce del lavoro** — dipendente, forfettario, impresa — sono
-  tre forme legittime e complementari. Il forfettario non è un privilegio:
-  è infrastruttura leggera di avvio, fase naturale del ciclo di vita.
+- **Modello a scaglioni marginali** proposto: 5% fino a €18k (sempre,
+  tariffa di sopravvivenza), 15% fino a €85k, 25/30% fino a €100k,
+  50% sull'eccedenza sopra €100k senza espulsione. Tre vie: esecuzione
+  personale, distribuzione reale ad altri forfettari, contractor SRL
+  genuina.
 - **Togliere la forfettaria è togliere il motore di spinta della crescita**:
   l'iniziativa personale, l'ingresso dei giovani, la possibilità di
   sperimentare prima di assumersi il rischio pieno dell'impresa.

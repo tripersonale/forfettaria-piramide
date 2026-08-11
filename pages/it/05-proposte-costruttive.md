@@ -7,59 +7,121 @@ rendere il sistema fiscale italiano coerente con l'era digitale, l'AI, e
 la libera circolazione europea**, mantenendo il forfettario come
 infrastruttura di avvio.
 
-## 1. Cap limit al netto reale (invece della soglia di fatturato)
+## 1. Modello a scaglioni marginali (al posto del cliff edge)
 
-**Oggi**: muro a €85.000 di fatturato annuo → salto al 23-43% + IVA.
+**Oggi**: muro a €85.000 → uscita immediata nell'anno se si supera
+€100.000 (e IVA sull'operazione eccedente). Risultato: il forfettario
+rifugge la crescita, rifiuta commesse, o si finge dipendente.
 
-**Proposta**: tetto sul **netto reale mensile** del forfettario. Chi tiene
-in tasca stabilmente più di €5.000-€10.000 netti al mese viene **invitato**
-(non costretto) a fare il salto alla SRL.
+**Proposta**: scaglioni marginali progressivi, applicati **solo
+all'eccedenza**, mai retroattivamente al reddito già tassato.
 
-**Effetto**: il cap diventa traguardo, non punizione. Chi vuole restare
-piccolo resta. Chi cresce vede il limite come milestone, non come muro.
+| Fascia di fatturato | Aliquota ordinaria | Aliquota startup (primi 5 anni) | Logica |
+|---|---|---|---|
+| €0 – €18.000 | 5% | 5% | **Sempre 5%**: tariffa di sopravvivenza, indipendente dall'anzianità |
+| €18.001 – €85.000 | 15% | 5% | Forfettario ordinario |
+| €85.001 – €100.000 | 25% (startup) / 30% (ordinario) | — | Fascia di crescita tollerata |
+| Oltre €100.000 | **50% sull'eccedenza** | **50% sull'eccedenza** | No espulsione, ma concentrazione diventa costosa |
 
-## 2. SRL contractor collettiva di categoria
+**Esempio**: fatturato annuo €120.000 (consulente ordinario):
+- primi €18.000 → 5%
+- successivi €67.000 → 15%
+- successivi €15.000 → 30%
+- ultimi €20.000 → 50%
 
-**Oggi**: il forfettario che vuole crescere deve costituire una SRL da
-solo, con costi notarili, contabili, gestionali minimi di €5-10k/anno.
+**Effetto**:
+- Chi riceve una commessa eccezionale non deve rifiutarla né ricostruire
+  retroattivamente la contabilità.
+- Chi cresce stabilmente sopra €100k paga molto sull'eccedenza, e la
+  convenienza lo spinge a strutturarsi (ordinario o SRL).
+- Chi è sotto €18k è protetto sempre al 5% — non si pagano contributi
+  sproporzionati su un'attività che è sopravvivenza, non impresa.
 
-**Proposta**: la SRL **di categoria** — una contractor collettiva in cui
-più forfettari entrano come soci, condividono governance, contabilità,
-infrastruttura, e possono crescere senza perdere l'autonomia.
+## 2. Tre vie sopra €100.000
 
-**Effetto**: il salto dal forfettario all'impresa diventa un'**evoluzione
-naturale** dentro un ecosistema familiare, non un'operazione traumatica
-individuale.
+Quando il forfettario supera la soglia, ha tre scelte reali — non
+un'espulsione automatica:
 
-## 3. Bilanciamento dinamico dipendenti-collaboratori
+1. **Esecuzione personale**: paga il 50% sull'eccedenza e resta nel
+   regime. Anno eccezionale, lavora sereno, contribuisce di più.
+2. **Distribuzione reale**: passa parte della commessa ad altri
+   professionisti (anche forfettari), che fatturano ciascuno la propria
+   parte. Nessun salto di regime, nessuna concentrazione di reddito.
+3. **Contractor SRL genuina**: passa la commessa a una SRL esistente (non
+   una collettiva di forfettari) che fa da raccordo: assume il rischio,
+   organizza i work package, distribuisce il lavoro tra più professionisti
+   autonomi. La SRL **deve** essere genuina (art. 1655-1656 c.c., D.Lgs.
+   276/2003, D.Lgs. 81/2015): non aggrega solo fatture.
 
-**Oggi**: ogni impresa ha pochi strumenti per scegliere il mix ottimale tra
-dipendenti e collaboratori forfettari.
+La curva fiscale produce da sola la scelta razionale: nessuno viene
+espulso per legge, ma **concentrare tutto su di sé diventa
+volontariamente sconveniente**.
 
-**Proposta**: le imprese che mantengono un **mix equilibrato** tra
-dipendenti (per le funzioni stabili) e collaboratori forfettari (per le
-funzioni variabili e di prossimità) hanno accesso a **crediti d'imposta**
-sulla formazione e sull'innovazione.
+## 3. Limite 50% ex datore (anti-falsa partita IVA)
 
-**Effetto**: il sistema premia chi mantiene tessuto sociale
-(dipendenti stabili) **e** chi usa il forfettario come acceleratore di
-prossimità. Nessuno dei due diventa sostitutivo dell'altro.
+**Oggi**: causa ostativa se oltre il 50% del fatturato proviene
+dall'attuale datore, dall'ex datore dei due periodi d'imposta
+precedenti, o da soggetti riconducibili (art. 1 co. 57(d-bis) L.
+190/2014). L'aver **un solo cliente** indipendente non esclude
+automaticamente.
 
-## 4. Trasparenza volontaria come scudo
+**Proposta (rafforzamento)**: il limite 50% ex datore resta, ma **deve
+essere esplicitato che un work package ricevuto da una SRL contractor
+genuina terza rispetto all'ex datore NON conta come reddito da ex
+datore**. Altrimenti la contractor più utile (quella con l'ex datore
+come cliente finale) diventa impraticabile, e si spinge tutto verso
+falsa subordinazione.
 
-**Oggi**: il forfettario è sospettato di evasione per default.
+## 4. Semaforo fiscale preventivo + safe harbour
 
-**Proposta**: chi aderisce **volontariamente** a un protocollo di
-trasparenza digitale (fatturazione elettronica completa, tracciamento
-bancario, Partita IVA Aperta con dashboard pubblico) ottiene **stabilità
-decennale del regime** e accesso a una soglia di fatturato più alta
-(es. €120.000).
+**Oggi**: l'Agenzia delle Entrate può riqualificare la posizione del
+contribuente **dopo anni**, con recupero di imposte e IVA su fatture
+emesse in regime di buona fede. Risultato: contenziosi, fallimenti,
+sfiducia.
 
-**Effetto**: chi è onesto viene premiato con stabilità e spazio di
-crescita. Chi evade resta esposto al regime attuale. *Armatura, non
-caveau.*
+**Proposta**:
+- 🟢 **Regime confermato** se i dati dichiarati (fatturazione
+  elettronica, anagrafe clienti, CU, rapporti con ex datori) sono
+  coerenti con la permanenza nel forfettario.
+- 🟡 **Attenzione** all'80% della soglia o con rapporto vicino al 50%
+  ex datore.
+- 🔴 **Cambio prospettico** annunciato: dalla prossima operazione si
+  applicano le nuove regole (IVA, nuovo regime).
+- **Safe harbour**: se l'AdE ha rilasciato una ricevuta annuale di
+  "regime confermato" sulla base dei dati dichiarati, **non può
+  procedere a riqualificazione retroattiva** salvo dati falsi o
+  occultati. Base normativa: art. 10-bis L. 212/2000 (statuto del
+  contribuente).
 
-## 5. Costituzionalità: art. 35, 41, 53
+## 5. No IVA retroattiva per chi ha integralmente dichiarato
+
+**Oggi**: il superamento della soglia IVA può essere accertato dopo
+anni, con richiesta di IVA sulle fatture pregresse. Per fatture B2C a
+privati il professionista paga di tasca propria (non può rivalersi sul
+cliente finale anni dopo). Risultato: debiti sproporzionati, fallimenti,
+tribunali pieni.
+
+**Proposta**: nessuna IVA retroattiva per chi ha emesso tutte le
+fatture elettroniche, dichiarato integralmente clienti e incassi, e
+non ha occultato rapporti collegati. L'AdE recupera solo la differenza
+d'imposta diretta con interessi ragionevoli; niente sanzioni punitive
+se i dati erano già disponibili.
+
+## 6. Limite europeo della franchigia IVA
+
+La direttiva IVA UE (2006/112/CE) fissa la franchigia PMI nazionale a
+massimo €85.000, con tolleranza temporanea mai oltre €100.000.
+L'Italia **non può** abolire unilateralmente l'IVA sopra soglia UE.
+
+Quindi la proposta ha **due livelli**:
+
+- **Riforma italiana immediata**: scaglioni 5/15/25/30/50%, semaforo,
+  safe harbour, no IVA retroattiva, contractor genuina.
+- **Riforma europea**: innalzamento o superamento del limite IVA
+  per autonomi trasparenti; regime sostitutivo progressivo; protezione
+  della certezza fiscale contro riqualificazioni tardive.
+
+## 7. Costituzionalità: art. 35, 41, 53
 
 Il regime forfettario non viola la Costituzione italiana, anzi la
 realizza:
@@ -74,7 +136,7 @@ realizza:
   applica al **sistema** (ciclo di vita: forfettario → impresa →
   dipendente), non al singolo anno.
 
-## 6. Era degli agenti: cosa cambia davvero
+## 8. Era degli agenti: cosa cambia davvero
 
 Gli strumenti AI a riga di comando (claude-code, codestral, gemini-cli,
 qwen-code, kimi-code e simili) sono oggi strumenti individuali, non
