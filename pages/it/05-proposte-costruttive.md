@@ -16,12 +16,22 @@ rifugge la crescita, rifiuta commesse, o si finge dipendente.
 **Proposta**: scaglioni marginali progressivi, applicati **solo
 all'eccedenza**, mai retroattivamente al reddito già tassato.
 
-| Fascia di fatturato | Aliquota ordinaria | Aliquota startup (primi 5 anni) | Logica |
-|---|---|---|---|
-| €0 – €18.000 | 5% | 5% | **Sempre 5%**: tariffa di sopravvivenza, indipendente dall'anzianità |
-| €18.001 – €85.000 | 15% | 5% | Forfettario ordinario |
-| €85.001 – €100.000 | 25% (startup) / 30% (ordinario) | — | Fascia di crescita tollerata |
-| Oltre €100.000 | **50% sull'eccedenza** | **50% sull'eccedenza** | No espulsione, ma concentrazione diventa costosa |
+| Fascia di fatturato | Imposta sostitutiva | INPS | Totale | Note |
+|---|---|---|---|---|
+| €0 – €18.000 | 5% | Gestione Separata/Cassa | — | **Sempre 5%**: tariffa di sopravvivenza, indipendente dall'anzianità |
+| €18.001 – €85.000 | 15% | come sopra | — | Forfettario ordinario (coefficiente ATECO applicato) |
+| €85.001 – €100.000 | 25% (startup) / 30% (ordinario) | come sopra | — | Fascia di crescita tollerata |
+| Oltre €100.000, **anno 1** | **40% sull'eccedenza lorda** | 24% sull'eccedenza | **64%** | Niente coefficiente ATECO: base piena |
+| Oltre €100.000, anno 2 | 50% | 24% | **74%** | +10% per anno consecutivo |
+| Oltre €100.000, anno 3 | 60% | 24% | **84%** | |
+| Oltre €100.000, anno 4 e oltre | 70% | 24% | **94%** | Cap ragionevole |
+
+**Logica sopra €100k**: le aliquote restano "forfettarie" (niente Libri
+IVA, niente costi analitici, niente doppia contabilità), ma il reddito è
+preso **al lordo**, non forfettizzato. Le spese vive sono già state
+"assorbite" dal coefficiente ATECO entro i €100k. Sopra soglia paghi
+tanto, ma non vieni punito: è scelta tua accettare la commessa,
+distribuirla, o pagare.
 
 **Esempio**: fatturato annuo €120.000 (consulente ordinario, 1° anno sopra soglia):
 - primi €18.000 → 5%
@@ -39,39 +49,48 @@ all'eccedenza**, mai retroattivamente al reddito già tassato.
 
 ### Escalation automatica per anni consecutivi sopra €100k
 
-Il 50% sull'eccedenza **non è una sistemazione permanente**. È una
-rete di sicurezza per l'anno eccezionale, con meccanismo di escalation
-che rende la permanenza sopra soglia **progressivamente sconveniente**:
+L'aliquota sull'eccedenza **non è una sistemazione permanente**. Scala
+di **+10% per ogni anno consecutivo sopra €100k**, a partire dal 40%
+dell'anno 1. Cap finale 70% (anno 4+), che con INPS 24% arriva al 94%
+complessivo.
 
-| Anno consecutivo sopra €100k | Aliquota sull'eccedenza |
-|---|---|
-| 1° anno | 50% |
-| 2° anno | 60% |
-| 3° anno | 70% |
-| 4° anno | 80% |
-| 5° anno e oltre | 80% |
+**Counter permanente**: il contatore degli anni consecutivi sopra
+soglia **non si azzera** se il contribuente ridiscende sotto €100k in
+un anno successivo. Resta memoria permanente. Niente gaming, niente
+"reset" strategico.
 
-**Se il contribuente ridiscende sotto €100k** in un anno successivo, il
-contatore degli anni consecutivi si azzera e l'anno dopo riparte da
-50%.
+| Anno consecutivo sopra €100k | Imposta eccedenza | + INPS 24% | Totale |
+|---|---|---|---|
+| 1° anno | 40% | 24% | **64%** |
+| 2° anno | 50% | 24% | **74%** |
+| 3° anno | 60% | 24% | **84%** |
+| 4° anno e oltre | 70% | 24% | **94%** |
 
 **Logica**:
-- Anno 1: 50% sull'eccedenza — è l'anno eccezionale, ok.
-- Anno 2: 60% — comincia a essere serio.
-- Anno 3: 70% — quasi insostenibile.
-- Anno 4: 80% — equivalente all'IRPEF piena, **tanto vale strutturarsi**.
+- Anno 1: 64% sull'eccedenza — è l'anno eccezionale, ok.
+- Anno 2: 74% — comincia a essere serio.
+- Anno 3: 84% — quasi insostenibile.
+- Anno 4: 94% — sopra conviene davvero strutturarsi (ordinario con
+  deduzioni reali, o SRL).
 - **Nessuno viene espulso per legge**. Ma restare sopra soglia per scelta
   diventa volontariamente sconveniente entro 2-3 anni.
 - L'incentivo a **distribuire lavoro**, **entrare in contractor SRL
   genuina**, o **passare in ordinario** diventa naturale per scelta
   razionale, non per obbligo.
+- Il counter permanente elimina i giochetti: chi resta sopra soglia sa
+  che paga sempre di più, anno dopo anno, finché non cambia scelta.
 
 **Esempio**: professionista a €140k/anno per 3 anni consecutivi:
-- Anno 1: paga 50% sull'eccedenza (€40k × 50% = €20k di imposta)
-- Anno 2: paga 60% sull'eccedenza (€40k × 60% = €24k)
-- Anno 3: paga 70% sull'eccedenza (€40k × 70% = €28k)
+- Anno 1: paga 40% sull'eccedenza (€40k × 40% = €16k) + INPS (€40k × 24% = €9,6k)
+- Anno 2: paga 50% sull'eccedenza (€40k × 50% = €20k) + INPS (€40k × 24% = €9,6k)
+- Anno 3: paga 60% sull'eccedenza (€40k × 60% = €24k) + INPS (€40k × 24% = €9,6k)
 - Al 4° anno il contribuente è naturalmente spinto a passare in ordinario
-  (aliquote marginali simili) o in SRL (con deduzioni reali dei costi).
+  (aliquote IRPEF ~40% su base reale con deduzioni) o in SRL.
+
+**Perché a 70% si ferma l'escalation**: oltre quella soglia marginale,
+il contribuente riceverebbe meno del netto reale e sarebbe
+tecnicamente confiscatorio. Cap automatico a 70% imposta + 24% INPS =
+94% sull'eccedenza, che è già al limite del sostenibile per scelta.
 
 ## 2. Tre vie sopra €100.000
 
