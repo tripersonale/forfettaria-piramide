@@ -23,7 +23,7 @@ all'eccedenza**, mai retroattivamente al reddito già tassato.
 | €85.001 – €100.000 | 25% (startup) / 30% (ordinario) | — | Fascia di crescita tollerata |
 | Oltre €100.000 | **50% sull'eccedenza** | **50% sull'eccedenza** | No espulsione, ma concentrazione diventa costosa |
 
-**Esempio**: fatturato annuo €120.000 (consulente ordinario):
+**Esempio**: fatturato annuo €120.000 (consulente ordinario, 1° anno sopra soglia):
 - primi €18.000 → 5%
 - successivi €67.000 → 15%
 - successivi €15.000 → 30%
@@ -36,6 +36,42 @@ all'eccedenza**, mai retroattivamente al reddito già tassato.
   convenienza lo spinge a strutturarsi (ordinario o SRL).
 - Chi è sotto €18k è protetto sempre al 5% — non si pagano contributi
   sproporzionati su un'attività che è sopravvivenza, non impresa.
+
+### Escalation automatica per anni consecutivi sopra €100k
+
+Il 50% sull'eccedenza **non è una sistemazione permanente**. È una
+rete di sicurezza per l'anno eccezionale, con meccanismo di escalation
+che rende la permanenza sopra soglia **progressivamente sconveniente**:
+
+| Anno consecutivo sopra €100k | Aliquota sull'eccedenza |
+|---|---|
+| 1° anno | 50% |
+| 2° anno | 60% |
+| 3° anno | 70% |
+| 4° anno | 80% |
+| 5° anno e oltre | 80% |
+
+**Se il contribuente ridiscende sotto €100k** in un anno successivo, il
+contatore degli anni consecutivi si azzera e l'anno dopo riparte da
+50%.
+
+**Logica**:
+- Anno 1: 50% sull'eccedenza — è l'anno eccezionale, ok.
+- Anno 2: 60% — comincia a essere serio.
+- Anno 3: 70% — quasi insostenibile.
+- Anno 4: 80% — equivalente all'IRPEF piena, **tanto vale strutturarsi**.
+- **Nessuno viene espulso per legge**. Ma restare sopra soglia per scelta
+  diventa volontariamente sconveniente entro 2-3 anni.
+- L'incentivo a **distribuire lavoro**, **entrare in contractor SRL
+  genuina**, o **passare in ordinario** diventa naturale per scelta
+  razionale, non per obbligo.
+
+**Esempio**: professionista a €140k/anno per 3 anni consecutivi:
+- Anno 1: paga 50% sull'eccedenza (€40k × 50% = €20k di imposta)
+- Anno 2: paga 60% sull'eccedenza (€40k × 60% = €24k)
+- Anno 3: paga 70% sull'eccedenza (€40k × 70% = €28k)
+- Al 4° anno il contribuente è naturalmente spinto a passare in ordinario
+  (aliquote marginali simili) o in SRL (con deduzioni reali dei costi).
 
 ## 2. Tre vie sopra €100.000
 

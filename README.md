@@ -32,9 +32,10 @@ English version: [indice.en.md](indice.en.md).
   vs €100.000 in Francia e Germania, €700.000 in Austria).
 - **Modello a scaglioni marginali** proposto: 5% fino a €18k (sempre,
   tariffa di sopravvivenza), 15% fino a €85k, 25/30% fino a €100k,
-  50% sull'eccedenza sopra €100k senza espulsione. Tre vie: esecuzione
-  personale, distribuzione reale ad altri forfettari, contractor SRL
-  genuina.
+  50% sull'eccedenza sopra €100k senza espulsione, con escalation
+  automatica (50% → 60% → 70% → 80% per anni consecutivi sopra soglia)
+  se il contribuente resta per scelta. Tre vie: esecuzione personale,
+  distribuzione reale ad altri forfettari, contractor SRL genuina.
 - **Togliere la forfettaria è togliere il motore di spinta della crescita**:
   l'iniziativa personale, l'ingresso dei giovani, la possibilità di
   sperimentare prima di assumersi il rischio pieno dell'impresa.
