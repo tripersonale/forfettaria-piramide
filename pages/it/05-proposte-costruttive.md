@@ -158,21 +158,22 @@ decine di SRL lavorano quasi esclusivamente per essa — e il forfettario
 che le serve violerebbe la regola senza poterlo sapere.
 
 **Proposta**: sostituire la soglia percentuale con un criterio di
-**autonomia sostanziale crescente**:
+**autonomia sostanziale**:
 
-- L'ex datore può essere cliente, anche maggioritario, nei primi anni
-  di transizione.
-- L'autonomia si verifica su indicatori concreti: pluralità di clienti
-  nel tempo, capacità di rifiutare incarichi, assenza di vincoli di
-  orario e luogo, proprietà degli strumenti di lavoro.
-- Il semaforo fiscale (sezione 4) monitora la traiettoria: se la
-  concentrazione verso l'ex datore diminuisce nel tempo, il regime è
-  confermato. Se resta identica per anni senza crescita di autonomia,
-  scatta la verifica.
+- Si può anche restare con un unico cliente: non è la pluralità il metro.
+- L'autonomia si verifica sulla natura del rapporto: il forfettario vende
+  risultati, non tempo. Lavora per obiettivi, senza vincoli di orario,
+  luogo e modalità.
+- Il semaforo fiscale monitora la sostanza del rapporto: se il lavoro è
+  organizzato per risultati e il professionista decide come, quando e
+  dove operare, il regime è confermato.
+- La concentrazione verso un singolo cliente non è di per sé indice di
+  falsa autonomia: lo è solo se il rapporto è di fatto subordinato
+  (direzione, orario, luogo imposti dal cliente).
 
-La protezione contro la falsa autonomia si ottiene verificando la
-sostanza del rapporto, non applicando una percentuale arbitraria che il
-contribuente non può controllare.
+La protezione contro la falsa autonomia si ottiene verificando se il
+rapporto è per risultati o per tempo, non contando i clienti o
+applicando percentuali arbitrarie.
 
 ## 4. Semaforo fiscale preventivo + safe harbour
 
