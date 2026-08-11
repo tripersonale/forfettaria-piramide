@@ -137,20 +137,42 @@ rifiuta la commessa". La scelta è:
 sopra soglia progressivamente sconveniente, incentivando la
 distribuzione del lavoro o la strutturazione impresa.
 
-## 3. Limite 50% ex datore (anti-falsa partita IVA)
+## 3. Superare il limite 50% ex datore
 
 **Oggi**: causa ostativa se oltre il 50% del fatturato proviene
 dall'attuale datore, dall'ex datore dei due periodi d'imposta
 precedenti, o da soggetti riconducibili (art. 1 co. 57(d-bis) L.
-190/2014). L'aver **un solo cliente** indipendente non esclude
-automaticamente.
+190/2014).
 
-**Proposta (rafforzamento)**: il limite 50% ex datore resta, ma **deve
-essere esplicitato che un work package ricevuto da una SRL contractor
-genuina terza rispetto all'ex datore NON conta come reddito da ex
-datore**. Altrimenti la contractor più utile (quella con l'ex datore
-come cliente finale) diventa impraticabile, e si spinge tutto verso
-falsa subordinazione.
+**Il problema**: questa regola non protegge — impedisce. La transizione
+da dipendente ad autonomo è graduale: all'inizio l'ex datore può
+rappresentare la maggioranza del fatturato (fase di passaggio di
+consegne), poi l'autonomia cresce progressivamente. Una soglia fissa al
+50% blocca questa transizione naturale e penalizza chi ha costruito un
+rapporto di fiducia in anni di lavoro dipendente.
+
+Inoltre, la regola crea incertezza arbitraria: il contribuente non può
+sapere se una SRL sua cliente ha il 49% o il 51% del proprio fatturato
+dall'ex datore. Se lavorava in una grande azienda (es. Poste Italiane),
+decine di SRL lavorano quasi esclusivamente per essa — e il forfettario
+che le serve violerebbe la regola senza poterlo sapere.
+
+**Proposta**: sostituire la soglia percentuale con un criterio di
+**autonomia sostanziale crescente**:
+
+- L'ex datore può essere cliente, anche maggioritario, nei primi anni
+  di transizione.
+- L'autonomia si verifica su indicatori concreti: pluralità di clienti
+  nel tempo, capacità di rifiutare incarichi, assenza di vincoli di
+  orario e luogo, proprietà degli strumenti di lavoro.
+- Il semaforo fiscale (sezione 4) monitora la traiettoria: se la
+  concentrazione verso l'ex datore diminuisce nel tempo, il regime è
+  confermato. Se resta identica per anni senza crescita di autonomia,
+  scatta la verifica.
+
+La protezione contro la falsa autonomia si ottiene verificando la
+sostanza del rapporto, non applicando una percentuale arbitraria che il
+contribuente non può controllare.
 
 ## 4. Semaforo fiscale preventivo + safe harbour
 
