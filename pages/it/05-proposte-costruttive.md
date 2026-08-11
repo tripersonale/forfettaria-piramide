@@ -74,15 +74,15 @@ realizza:
   applica al **sistema** (ciclo di vita: forfettario → impresa →
   dipendente), non al singolo anno.
 
-## 6. Era degli agenti AI: il forfettario come presidio
+## 6. Era degli agenti: cosa cambia davvero
 
-Gli agenti AI (claude-code, codestral, hermes-agent, gemini-cli, qwen-code,
-kimi-code, mavis-agent e altri) sono oggi strumenti individuali, non
-aziendali. Un singolo forfettario con un agente AI ben configurato può
-servire 5-10 clienti con qualità enterprise.
+Gli strumenti AI a riga di comando (claude-code, codestral, gemini-cli,
+qwen-code, kimi-code e simili) sono oggi strumenti individuali, non
+aziendali. Un singolo forfettario con un agente ben configurato può
+servire più clienti con qualità enterprise senza assumere nessuno.
 
-**Togliere il forfettario = togliere all'Europa 3,8 milioni di
-presidi territoriali AI-amplificati**, a vantaggio di 5 piattaforme
-globali che non hanno radicamento locale.
+Questo rende la forfettaria **più** utile di dieci anni fa, non meno.
+Toglierla oggi significa togliere al mercato europeo lo strumento che
+mette l'AI in mano ai singoli, invece che solo alle grandi strutture.
 
 → [Fonti e dati](06-fonti-e-dati.md)

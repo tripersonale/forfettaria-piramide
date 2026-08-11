@@ -33,10 +33,11 @@ English version: [indice.en.md](indice.en.md).
 - **Le tre facce del lavoro** — dipendente, forfettario, impresa — sono
   tre forme legittime e complementari. Il forfettario non è un privilegio:
   è infrastruttura leggera di avvio, fase naturale del ciclo di vita.
-- **Nell'era degli agenti AI**, togliere il forfettario significa
-  consegnare il mercato a 5 player globali. L'Europa che vuole sovranità
-  digitale non può simultaneamente distruggere l'unico veicolo che produce
-  imprenditori atomici sul territorio.
+- **Togliere la forfettaria è togliere il motore di spinta della crescita**:
+  l'iniziativa personale, l'ingresso dei giovani, la possibilità di
+  sperimentare prima di assumersi il rischio pieno dell'impresa.
+  Nell'era degli strumenti AI individuali, la forfettaria è **più** utile
+  di dieci anni fa, non meno.
 
 ## Origine
 

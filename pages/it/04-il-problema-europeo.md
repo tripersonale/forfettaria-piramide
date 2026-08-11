@@ -56,24 +56,14 @@ La crescita del numero di forfettari indica che **la domanda di lavoro
 autonomo leggero è alta**. È un segnale di vitalità economica, non di
 patologia fiscale.
 
-## Il vero rischio europeo
+## Cosa c'è in gioco
 
-> *"Nell'era degli agenti AI, togliere il forfettario sarebbe come
-> uccidersi in favore dell'Europa che ci vuole oppressi."*
-> — MVB, 2026-06-27
+Togliere la forfettaria significa togliere il **motore di spinta** della
+crescita: l'iniziativa personale, l'ingresso dei giovani nel mercato, la
+capacità di sperimentare prima di assumersi il rischio pieno
+dell'impresa.
 
-L'Europa, nel 2024-2026, sta negoziando il **Regolamento AI Act**, la
-**Common Consolidated Corporate Tax Base (CCCTB)**, la **Digital Services
-Act**, il **Data Act**. In tutti questi dossier, la narrativa ufficiale
-parla di "favorire l'innovazione", "sostenere le PMI", "rafforzare la
-sovranità digitale europea".
-
-Ma la **sovranità digitale europea** si regge su **persone che vivono sul
-territorio**, conoscono i clienti locali, mantengono la catena del valore
-diffusa. Non su 5 piattaforme globali.
-
-Il forfettario è l'**acceleratore di prossimità** che presidia il mercato
-locale. Toglierlo significa consegnare il mercato a chi ha già vinto la
-gara globale.
+Non è un'esercitazione fiscale. È una scelta di politica economica che
+decide chi può cominciare.
 
 → [Proposte costruttive](05-proposte-costruttive.md)
