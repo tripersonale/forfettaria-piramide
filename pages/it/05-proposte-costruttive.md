@@ -19,8 +19,8 @@ all'eccedenza**, mai retroattivamente al reddito già tassato.
 | Fascia di fatturato | Imposta sostitutiva | INPS | Note |
 |---|---|---|---|
 | €0 – €18.000 | 5% | Gestione/Cassa (regole normali) | **Sempre 5%**: tariffa di sopravvivenza, indipendente dall'anzianità |
-| €18.001 – €85.000 | 15% | come sopra | Forfettario ordinario (coefficiente ATECO applicato) |
-| €85.001 – €100.000 | 25% (startup) / 30% (ordinario) | come sopra | Fascia di crescita tollerata |
+| €18.001 – €60.000 | 5% (startup) / 15% (ordinario) | come sopra | Forfettario ordinario (coefficiente ATECO applicato) |
+| €60.001 – €100.000 | 20% (startup) / 30% (ordinario) | come sopra | Fascia di crescita |
 | Oltre €100.000, **anno 1** | **40% sull'eccedenza lorda** | regole normali | Niente coefficiente ATECO: base piena |
 | Oltre €100.000, anno 2 | 50% | regole normali | +10% per anno consecutivo |
 | Oltre €100.000, anno 3 | 60% | regole normali | |
@@ -67,9 +67,9 @@ acconti, saldi — un costo fisso di €3-5k/anno solo di burocrazia.
 
 **Esempio**: fatturato annuo €120.000 (consulente ordinario, 1° anno sopra soglia):
 - primi €18.000 → 5%
-- successivi €67.000 → 15%
-- successivi €15.000 → 30%
-- ultimi €20.000 → 50%
+- successivi €42.000 → 15%
+- successivi €40.000 → 30%
+- ultimi €20.000 → 40%
 
 **Effetto**:
 - Chi riceve una commessa eccezionale non deve rifiutarla né ricostruire

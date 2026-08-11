@@ -31,7 +31,7 @@ English version: [indice.en.md](indice.en.md).
 - **L'Italia è sotto la media UE** per soglia di esenzione IVA (€85.000
   vs €100.000 in Francia e Germania, €700.000 in Austria).
 - **Modello a scaglioni marginali** proposto: 5% fino a €18k (sempre,
-  tariffa di sopravvivenza), 15% fino a €85k, 25/30% fino a €100k,
+  tariffa di sopravvivenza), 5/15% fino a €60k, 20/30% fino a €100k,
   aliquote progressive sull'eccedenza sopra €100k (40% → 50% → 60% →
   70% per anni consecutivi sopra soglia), base **lorda** (niente
   coefficiente ATECO sopra soglia), counter **simmetrico** (sali di uno
