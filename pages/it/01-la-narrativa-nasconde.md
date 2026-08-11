@@ -40,10 +40,8 @@ mese**. Proviamoci.
 | Spese vive di gestione (software, connettività, strumenti) | −€3,00 | Stima conservativa |
 | **Netto in tasca** | **≈ €60,00** | Da cui coprire le spese vive di vita |
 
-E qui il **margine operativo reale** — la differenza tra quanto entra e
-quanto esce per vivere — è ulteriormente eroso da affitto, cibo, salute,
-trasporti, figli. Operatori reali riportano un margine operativo spesso
-**al 10% del lordo**.
+E qui il netto in tasca è ulteriormente eroso dalle spese vive di vita:
+affitto, cibo, salute, trasporti, figli.
 
 > *"Un forfettario senza sconti su €100 incassati tiene in tasca 70/75 euro,
 > coi quali deve anche coprire le spese. La narrativa del 15% è fuorviante."*
