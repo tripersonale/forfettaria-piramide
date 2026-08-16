@@ -1,74 +1,40 @@
 # 3. Il flusso vitale
 
-## Il ciclo di vita del lavoratore
+## Non una sequenza, un flusso
 
-Una persona, nella sua vita lavorativa, attraversa naturalmente le tre
-facce in un ordine che riflette la sua energia, le sue responsabilità, la
-sua propensione al rischio.
+Le tre facce del lavoro non sono una sequenza rigida. Possono
+coesistere, alternarsi, scambiarsi durante le fasi della vita. Il
+sistema fiscale deve accompagnare il movimento, non bloccarlo.
 
 ```
-Giovane / in crescita          Matura / in visione          Anziana / in pace
-       │                              │                            │
-       ▼                              ▼                            ▼
-   FORFETTARIO                   IMPRENDITORE                  DIPENDENTE
-   (sperimentare)                (creare e assumere)          (operare con cura)
+FORFETTARIO  ⇄  IMPRENDITORE  ⇄  DIPENDENTE
+(sperimentare)   (creare)        (operare con cura)
 ```
 
-## Fase 1 — Forfettario da giovani
+## Coesistenza e scambio
 
-Quando si è giovani, si ha:
+- Si può essere forfettari a 25 anni, imprenditori a 35, tornare
+  forfettari a 45 per un progetto specifico, dipendenti a 55 per
+  stabilità.
+- Un dipendente può avere un side project forfettario.
+- Un imprenditore può chiudere la SRL e tornare forfettario.
+- Un forfettario può assumere un dipendente senza cambiare regime.
+- Le forme convivono e si scambiano liberamente.
 
-- Poca esperienza di mercato (bisogna imparare)
-- Poco capitale proprio (non si può rischiare tutto)
-- Alta tolleranza al rischio ma bassa capacità di assorbirlo
-- Tendenza a voler **sperimentare** prima di vincolarsi
+## Il cliff rompe il flusso
 
-Il forfettario è perfetto: zero capitale, impari il mercato direttamente,
-cresci per tentativi. Se sbagli, sbagli tu. Nessun licenziato, nessun
-creditore.
+Oggi il sistema tratta le facce come compartimenti stagni con muri tra
+loro. Il cliff a €85.000 impedisce il movimento naturale: chi cresce
+viene espulso dal forfettario, chi vuole tornare indietro non può.
 
-## Fase 2 — Imprenditore (opzionale)
+La proposta rimuove il cliff: il flusso resta aperto in ogni direzione.
+Chi vuole sperimentare, strutturarsi, tornare indietro, combinare — deve
+poterlo fare senza muri.
 
-Se la visione regge, se il mercato risponde, se il capitale proprio si è
-accumulato: si può **saltare** alla forma impresa. SRL o società di
-persone. Si inizia ad assumere, a strutturare, a scalare.
+## Il punto
 
-Questo salto non è obbligatorio. Molti restano forfettari tutta la vita,
-per scelta. È una scelta legittima.
+Il sistema fiscale deve essere una rampa che accompagna il movimento tra
+le facce, non un recinto che blocca in una. La libertà di muoversi tra
+le forme di lavoro è parte della libertà economica.
 
-## Fase 3 — Dipendente da anziani
-
-Con l'età, cambiano i pesi:
-
-- Meno energia per rischiare
-- Più bisogno di stabilità
-- Contributi pieni che danno pensione più alta
-- Desiderio di dedicarsi al mestiere, non alla burocrazia
-
-Tornare dipendente — o **diventare dipendente per scelta** — è un
-percorso naturale. Il lavoratore maturo porta esperienza e visione dentro
-l'organizzazione altrui, e l'organizzazione lo accoglie come risorsa.
-
-## L'effetto "cliff" è il vero problema
-
-Oggi il sistema **rompe il flusso** con un muro: a €85.000 di fatturato si
-passa dal 15% al 23-43% + IVA + contabilità ordinaria. È un salto che
-spinge a **non crescere**, a restare piccoli per mantenere il regime.
-
-> *"Per contrastare la crescita basta mettere più tranquillità nell'uso di
-> forfettari nelle SRL."*
-> — MVB, 2026-06-27
-
-La soluzione non è abolire il forfettario. È **rimuovere il cliff** e
-permettere una transizione graduale che mantenga il flusso vitale aperto.
-
-## Il "cap limit" come salto di qualità
-
-Una proposta concreta: invece del muro a €85.000 di fatturato, un **cap
-sul netto reale** (es. €5.000-€10.000 netti mensili). Chi lo raggiunge non
-viene "punito" con un salto di aliquota: viene **invitato** a fare il
-salto di qualità verso la SRL — una contractor collettiva di categoria.
-
-Il cap diventa un traguardo, non un muro.
-
-→ [Il problema europeo](04-il-problema-europeo.md)
+→ [Il modello a scaglioni](05-proposte-costruttive.md)
